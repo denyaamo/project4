@@ -1,10 +1,12 @@
 [
     {
-        "nickname": "denyamo",
-        "score": 2
+        "nickname": "denyaamo",
+        "score": 0,
+        "quiz_attempts": 0
     },
     {
-        "nickname": "mermonika",
-        "score": 3
+        "nickname": "denyamo",
+        "score": 1,
+        "quiz_attempts": 1
     }
 ]
