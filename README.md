@@ -11,3 +11,8 @@
 5. Third option would be '3. Delete your own quiz'. Option allows user to delete quiz that was created by himself.
 5. Fourth option would be the leader board that will calculate how much questions user answered, how much correct answers and it will calculate the place of a user based on ratio correct answers/total answered.
 6. Fifth option would be exiting the program.
+
+# Parts of the project
+1. main.py - Main code.
+2. test_main.py - Unit tests.
+3. profiles.json and categories.json - files created using application.
