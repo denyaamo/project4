@@ -6,7 +6,12 @@
     },
     {
         "nickname": "denyamo",
-        "score": 1,
+        "score": 2,
+        "quiz_attempts": 5
+    },
+    {
+        "nickname": "denis",
+        "score": 2,
         "quiz_attempts": 1
     }
 ]
